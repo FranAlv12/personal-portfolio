@@ -15,7 +15,7 @@ const Home = () => {
           <p className="text-gray-500 py-4 max-w-md">
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatum
             eum esse doloremque corporis maxime, nam voluptatem velit deleniti
-            dolore neque delectus quisquam odit omnis 
+            dolore neque delectus quisquam odit  
           </p>
           <div>
             <Link to='portfolio' smooth duration={500} className="group text-white w-fit px-6 py-3 my-2 flex items-center rounded-md bg-gradient-to-r from-cyan-500 to-blue-500">
