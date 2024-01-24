@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/FranAlv12/FranAlv12.github.io/static/css/main.ca58fcc7.css",
+    "main.js": "/FranAlv12/FranAlv12.github.io/static/js/main.e2b4e6ba.js",
+    "static/media/heroImage.png": "/FranAlv12/FranAlv12.github.io/static/media/heroImage.954c923ac730372a12af.png",
+    "static/media/PETS.jpeg": "/FranAlv12/FranAlv12.github.io/static/media/PETS.bb6e5fb27a72fb9175df.jpeg",
+    "static/media/AirforceEdu.jpeg": "/FranAlv12/FranAlv12.github.io/static/media/AirforceEdu.0c0f77f1e0a8161f3f9e.jpeg",
+    "static/media/SCRIPT.jpeg": "/FranAlv12/FranAlv12.github.io/static/media/SCRIPT.fdb00666b6600bfb8248.jpeg",
+    "static/media/blackjack.jpeg": "/FranAlv12/FranAlv12.github.io/static/media/blackjack.c927e6458b8811471e52.jpeg",
+    "static/media/QuizApp.jpeg": "/FranAlv12/FranAlv12.github.io/static/media/QuizApp.424ce6e80534a90bc611.jpeg",
+    "static/media/sqllogo.png": "/FranAlv12/FranAlv12.github.io/static/media/sqllogo.b0d26cc7533125d3b190.png",
+    "static/media/Csharp_Logo.png": "/FranAlv12/FranAlv12.github.io/static/media/Csharp_Logo.f7b572020c6fb9f247c9.png",
+    "static/media/Java.png": "/FranAlv12/FranAlv12.github.io/static/media/Java.d0be53e356542c3f88d2.png",
+    "static/media/ChatBot.jpeg": "/FranAlv12/FranAlv12.github.io/static/media/ChatBot.b10cfb9726581f61f611.jpeg",
+    "static/media/python.png": "/FranAlv12/FranAlv12.github.io/static/media/python.e41457ddd64b4d0e12ab.png",
+    "static/media/CSS3_logo_and_wordmark.svg.png": "/FranAlv12/FranAlv12.github.io/static/media/CSS3_logo_and_wordmark.svg.ecba351cfceec5953d14.png",
+    "static/media/JavaScript-Logo.png": "/FranAlv12/FranAlv12.github.io/static/media/JavaScript-Logo.d206e1f67e4c0985166c.png",
+    "static/media/githublogo.png": "/FranAlv12/FranAlv12.github.io/static/media/githublogo.baa8492565d00f6df19c.png",
+    "index.html": "/FranAlv12/FranAlv12.github.io/index.html",
+    "main.ca58fcc7.css.map": "/FranAlv12/FranAlv12.github.io/static/css/main.ca58fcc7.css.map",
+    "main.e2b4e6ba.js.map": "/FranAlv12/FranAlv12.github.io/static/js/main.e2b4e6ba.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ca58fcc7.css",
+    "static/js/main.e2b4e6ba.js"
+  ]
+}
