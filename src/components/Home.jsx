@@ -13,7 +13,7 @@ const Home = () => {
           <h2 className="text-4xl sm:text-7xl font-bold text-white">
             I'm a Full Stack Java Developer
           </h2>
-          <p className="text-gray-500 py-4  text-justify w-[650px]" >
+          <p className="text-gray-500 py-4 max-w-screen-md text-justify " >
             Enthusiastic and detail-oriented Junior Java Stack Developer with a
             passion for crafting efficient, high-quality code. Eager to
             contribute technical skills and collaborative mindset in a dynamic
