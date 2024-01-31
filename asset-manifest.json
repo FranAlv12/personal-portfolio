@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/personal-portfolio/static/css/main.ce500a97.css",
-    "main.js": "/personal-portfolio/static/js/main.f78674d5.js",
+    "main.css": "/personal-portfolio/static/css/main.9e72bc68.css",
+    "main.js": "/personal-portfolio/static/js/main.73c26ecc.js",
     "static/media/heroImage.png": "/personal-portfolio/static/media/heroImage.e8ab6dc69c2442f6581a.png",
     "static/media/PETS.jpeg": "/personal-portfolio/static/media/PETS.bb6e5fb27a72fb9175df.jpeg",
     "static/media/AirforceEdu.jpeg": "/personal-portfolio/static/media/AirforceEdu.0c0f77f1e0a8161f3f9e.jpeg",
@@ -17,11 +17,11 @@
     "static/media/JavaScript-Logo.png": "/personal-portfolio/static/media/JavaScript-Logo.d206e1f67e4c0985166c.png",
     "static/media/githublogo.png": "/personal-portfolio/static/media/githublogo.baa8492565d00f6df19c.png",
     "index.html": "/personal-portfolio/index.html",
-    "main.ce500a97.css.map": "/personal-portfolio/static/css/main.ce500a97.css.map",
-    "main.f78674d5.js.map": "/personal-portfolio/static/js/main.f78674d5.js.map"
+    "main.9e72bc68.css.map": "/personal-portfolio/static/css/main.9e72bc68.css.map",
+    "main.73c26ecc.js.map": "/personal-portfolio/static/js/main.73c26ecc.js.map"
   },
   "entrypoints": [
-    "static/css/main.ce500a97.css",
-    "static/js/main.f78674d5.js"
+    "static/css/main.9e72bc68.css",
+    "static/js/main.73c26ecc.js"
   ]
 }
